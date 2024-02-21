@@ -15,7 +15,7 @@ To deploy this server, follow these steps:
 
 2. Add the secret in the github workflow file
 - Navigate to .github/workflows/deployment.yml
-- Locate the key
-- Add the value as ${{ secrets.SERVICE_ACCOUNT_KEY }}
+- Locate the key `service_account_key`
+- Update the file to add the value as `${{ secrets.SERVICE_ACCOUNT_KEY }}`
 
 3. Trigger the workflow manually

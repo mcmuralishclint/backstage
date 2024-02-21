@@ -72,6 +72,6 @@ scaffolder:
 catalog:
   locations:
   - type: file
-    target: C:\Users\Muralish\Downloads\backstage\backstage\templates\go-repo-sample\template.yaml
+    target: C:\Users\Muralish\Downloads\backstage\backstage\templates\go-clean-code\template.yaml
   rules:
   - allow: [Component, Group, User, Resource, Location, Template]

@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: go-repo-template
   title: GO Template
-  description: Create a new standalone go project
+  description: This repository template provides a framework for generating a Golang HTTP server with a clean architecture. Clean architecture emphasizes separation of concerns and maintainability by organizing code into distinct layers, making it easier to understand, test, and modify.
   tags:
   - recommended
   - clean
